@@ -1,6 +1,6 @@
 # Energy Consumption in the Steel Industry
 
-This project analyzes real-world energy consumption data in the steel industry using data analysis techniques and a regression model. The main objective is to understand the factors that influence energy usage and to build a predictive model.
+This project analyzes real-world energy consumption data in the steel industry using data analysis techniques and a regression model. The main objective is to understand the factors that influence energy usage and to build a predictive model. 
 
 ## Project Description
 
